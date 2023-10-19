@@ -2,7 +2,8 @@
 #include <vector>
 
 using namespace std;
-int boroka=24;
+int boroka=12*2;
+
 
 class Cliente {
     string nome, cpf;

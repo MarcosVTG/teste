@@ -2,6 +2,7 @@
 #include <vector>
 
 using namespace std;
+int boroka=24;
 
 class Cliente {
     string nome, cpf;
